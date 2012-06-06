@@ -11,7 +11,7 @@ not implemented yet
 Non-Parametric Models
 ---------------------
 
-***Kernel Density Estimation
+### Kernel Density Estimation
 
     cd KernelDensityEstimation
     make
