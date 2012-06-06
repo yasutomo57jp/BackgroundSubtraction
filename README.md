@@ -18,6 +18,7 @@ Non-Parametric Models
     ./fastkde filelist
 
 "filelist" contains file paths
+
     /foo/bar/test1.jpg
     /foo/bar/test2.jpg
     /foo/bar/test3.jpg
